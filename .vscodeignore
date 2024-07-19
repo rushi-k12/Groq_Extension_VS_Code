@@ -1,0 +1,14 @@
+# Ignore test and debug directories
+**/test/**
+**/tests/**
+**/test/
+**/tests/
+.vscode-test/
+
+# Ignore configuration files
+.git/
+.DS_Store
+.vscode/
+.npmignore
+*.log
+package-lock.json
